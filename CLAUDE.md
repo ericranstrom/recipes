@@ -62,6 +62,7 @@ All tags are lowercase kebab-case. Give each recipe the tags that apply from eac
 | Meal type | `breakfast`, `lunch`, `dinner`, `side`, `salad`, `dessert`, `snack`, `component` |
 | Effort | `weeknight` (about 45 min or less, low fuss), `project` (long, multi-stage, or weekend cooking) |
 | Planning | `make-ahead` (holds well or is meant to be prepped ahead) |
+| Occasion | `holiday` (holiday and special-occasion dishes) |
 
 ## Units
 

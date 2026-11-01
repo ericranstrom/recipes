@@ -84,6 +84,8 @@ plugins:
         - project
         # Planning
         - make-ahead
+        # Occasion
+        - holiday
 
 extra_css:
   - stylesheets/extra.css
