@@ -6,4 +6,4 @@ title: Desserts
 
 <!-- Keep this list alphabetical. One line per recipe. -->
 
-*Nothing here yet.*
+- [Banana Bread](banana-bread.md) — classic cinnamon-scented loaf
