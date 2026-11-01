@@ -1,0 +1,30 @@
+{#-
+  Copy of Material's partials/content.html with a recipe info strip
+  (servings / times / source) rendered from front matter under the title.
+-#}
+{% include "partials/tags.html" %}
+{% include "partials/actions.html" %}
+{% if "<h1" not in page.content %}
+  <h1>{{ page.title | d(config.site_name, true)}}</h1>
+{% endif %}
+{% set m = page.meta %}
+{% if m.servings or m.active_time or m.total_time or m.source %}
+  <dl class="recipe-meta">
+    {% if m.servings %}<div><dt>Serves</dt><dd>{{ m.servings }}</dd></div>{% endif %}
+    {% if m.active_time %}<div><dt>Active</dt><dd>{{ m.active_time }}</dd></div>{% endif %}
+    {% if m.total_time %}<div><dt>Total</dt><dd>{{ m.total_time }}</dd></div>{% endif %}
+    {% if m.source %}
+      <div><dt>Source</dt><dd>
+        {%- if m.source is string and m.source.startswith("http") -%}
+          <a href="{{ m.source }}" rel="noopener">{{ m.source.split("/")[2] | replace("www.", "") }}</a>
+        {%- else -%}
+          {{ m.source | capitalize }}
+        {%- endif -%}
+      </dd></div>
+    {% endif %}
+  </dl>
+{% endif %}
+{{ page.content }}
+{% include "partials/source-file.html" %}
+{% include "partials/feedback.html" %}
+{% include "partials/comments.html" %}
