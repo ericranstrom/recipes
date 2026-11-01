@@ -10,7 +10,7 @@ servings: about 3/4 cup
 active_time: 5 min
 total_time: 5 min
 source: original
-date_added: 2026-11-01
+date_added: 2026-10-31
 ---
 
 A bright, creamy, all-purpose dressing for grain bowls, roasted vegetables, and salads.
@@ -39,4 +39,4 @@ A bright, creamy, all-purpose dressing for grain bowls, roasted vegetables, and 
 
 ## Cook Log
 
-- 2026-11-01: Example entry. Replace with real notes.
+- 2026-10-31: Example entry. Replace with real notes.

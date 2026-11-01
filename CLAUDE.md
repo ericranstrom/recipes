@@ -27,7 +27,7 @@ Input may be a URL, a photo, pasted text, or a rough description. Then:
    - `tags`: from the vocabulary below only.
    - `servings`, `active_time`, `total_time`: e.g. `4`, `20 min`, `1 hr 15 min`. Estimate if the source doesn't say.
    - `source`: the URL, or `family`, or `original`.
-   - `date_added`: today's date, `YYYY-MM-DD`.
+   - `date_added`: today's date, `YYYY-MM-DD`, in **Pacific time** (`TZ=America/Los_Angeles date +%F`). The container clock is UTC, which runs ahead in the evening.
 2. **Body sections, in this order:** one-line description (no heading), `## Ingredients`, `## Steps`, `## Notes & Variations`, `## Cook Log`. Don't add an H1; the title comes from front matter.
    - Ingredients: group with `###` subheadings when there are multiple parts (e.g. Chicken / Sauce / To serve).
    - Steps: numbered, **one action per step**. Split compound steps.
@@ -73,6 +73,7 @@ All tags are lowercase kebab-case. Give each recipe the tags that apply from eac
 
 When I report how a cook went:
 - Add a dated one-liner at the **top** of `## Cook Log` (newest first): `- 2026-10-31: halved the rice, needed more lemon`.
+- Dates are Pacific time. If I name a day ("Halloween", "last Sunday"), use that date.
 - Only change the recipe itself if I say the change is permanent (e.g. "make that the default"). Otherwise it lives in the log, or in Notes & Variations if it's a variation worth keeping.
 
 ## Privacy

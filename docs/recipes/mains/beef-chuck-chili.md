@@ -11,7 +11,7 @@ servings: 6–8 (or 12–16 potluck portions)
 active_time: 1 hr
 total_time: 4 hr + overnight chill
 source: original
-date_added: 2026-11-01
+date_added: 2026-10-31
 ---
 
 Rich, smoky chili of beef chuck braised with bacon, red wine, and chipotle until tender, finished with beans the next day.
