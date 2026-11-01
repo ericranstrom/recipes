@@ -92,4 +92,6 @@ This repo and site are **public**. Never include names, photos, ages, health det
 
 ## Seed content
 
-`docs/components/lemon-tahini-dressing.md` and `docs/recipes/mains/mediterranean-grain-bowl.md` are examples of the pattern. The owner may delete or replace them; if so, also update the category and component index pages.
+`docs/components/lemon-tahini-dressing.md` is an example component (nothing links to it yet). The owner may delete or replace it; if so, also update `docs/components/index.md`.
+
+`docs/recipes/mains/beef-chuck-chili.md` is a real recipe and the reference for formatting. For long recipes, it shows how to split Steps into `###` phases (e.g. "Day 1" / "Day 2") with numbering that continues across phases: start the second list at the next number.
