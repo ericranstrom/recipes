@@ -15,7 +15,7 @@ One-line description of what this is and why it's worth making.
 
 <!-- Single-part recipe: one flat list. Multi-part: use ### subheadings.
      Link to components instead of repeating them, e.g.
-     - 1/2 cup [Lemon-Tahini Dressing](../../components/lemon-tahini-dressing.md) -->
+     - 1/2 cup [Component Name](../../components/component-name.md) -->
 
 ### For the main part
 

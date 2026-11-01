@@ -45,7 +45,7 @@ Input may be a URL, a photo, pasted text, or a rough description. Then:
 - Pull reusable pieces (dressings, sauces, spice blends, roasted veg, base proteins, grains) into `docs/components/<kebab-name>.md` when they'd plausibly be used by another recipe. Use the same template and tag them `component`.
 - Before creating one, check whether an existing component already covers it, and link to that instead.
 - In the recipe, link to it with a relative link instead of repeating it, both in Ingredients and in the step that makes it:
-  - from `docs/recipes/<category>/x.md`: `[Lemon-Tahini Dressing](../../components/lemon-tahini-dressing.md)`
+  - from `docs/recipes/<category>/x.md`: `[Component Name](../../components/component-name.md)`
 - Add the component to the right group in `docs/components/index.md` (alphabetical).
 
 ## Tag vocabulary
@@ -91,8 +91,6 @@ This repo and site are **public**. Never include names, photos, ages, health det
    - `Add tag: korean`
 3. Don't commit `site/` or virtualenvs (they're in `.gitignore`).
 
-## Seed content
-
-`docs/components/lemon-tahini-dressing.md` is an example component (nothing links to it yet). The owner may delete or replace it; if so, also update `docs/components/index.md`.
+## Reference recipe
 
 `docs/recipes/mains/beef-chuck-chili.md` is a real recipe and the reference for formatting. For long recipes, it shows how to split Steps into `###` phases (e.g. "Day 1" / "Day 2") with numbering that continues across phases: start the second list at the next number.
