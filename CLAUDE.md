@@ -11,7 +11,7 @@ docs/
   components/              reusable building blocks (flat folder)
     index.md               grouped list: Dressings, Sauces, Roasted Vegetables, Base Proteins, Grains
   recipes/
-    mains/ sides/ salads/ breakfast/ desserts/
+    mains/ sides/ salads/ breakfast/ bread/ desserts/
       index.md             alphabetical list of the recipes in that category
 templates/recipe.md        the template for every recipe AND component
 overrides/partials/content.html   shows servings/times/source from front matter under the title
@@ -32,7 +32,7 @@ Input may be a URL, a photo, pasted text, or a rough description. Then:
    - Ingredients: group with `###` subheadings when there are multiple parts (e.g. Chicken / Sauce / To serve).
    - Steps: numbered, **one action per step**. Split compound steps.
    - Cook Log: start with an empty list if I haven't cooked it yet, or a first entry if I have.
-3. **Pick the category folder:** `mains`, `sides`, `salads`, `breakfast`, or `desserts`. Ask only if it's truly ambiguous.
+3. **Pick the category folder:** `mains`, `sides`, `salads`, `breakfast`, `bread`, or `desserts`. Ask only if it's truly ambiguous.
 4. **Filename:** kebab-case from the title, e.g. `docs/recipes/mains/lemon-chicken.md`.
 5. **Add a line to that category's `index.md`**, keeping it alphabetical; remove the `*Nothing here yet.*` placeholder if present.
 

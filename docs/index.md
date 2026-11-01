@@ -14,6 +14,7 @@ Tested recipes and the reusable building blocks behind them. Use the search bar 
 - [Sides](recipes/sides/index.md)
 - [Salads](recipes/salads/index.md)
 - [Breakfast](recipes/breakfast/index.md)
+- [Bread](recipes/bread/index.md)
 - [Desserts](recipes/desserts/index.md)
 - [Components](components/index.md): dressings, sauces, roasted veg, base proteins, and grains
 
