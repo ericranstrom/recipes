@@ -90,6 +90,7 @@ This repo and site are **public**. Never include names, photos, ages, health det
    - `Update recipe: lemon chicken (more garlic, cook log)`
    - `Add tag: korean`
 3. Don't commit `site/` or virtualenvs (they're in `.gitignore`).
+4. **Work directly on `main` and push to `main`.** No feature branches or PRs for this repo, even if the session was started on another branch. Pushing to `main` deploys the site automatically.
 
 ## Reference recipe
 
