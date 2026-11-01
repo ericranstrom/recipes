@@ -16,7 +16,7 @@ mkdocs build --strict   # same check CI runs
 
 ## Layout
 
-- `docs/recipes/<category>/`: recipes (mains, sides, salads, breakfast, bread, desserts)
-- `docs/components/`: reusable pieces (dressings, sauces, etc.) that recipes link to
+- `docs/recipes/`: all recipes in one flat folder (organized by tags, not categories)
+- `docs/components/`: reusable pieces (dressings, sauces, etc.) that recipes link to, created when first needed
 - `templates/recipe.md`: the template every recipe and component follows
 - `CLAUDE.md`: conventions for maintaining the repo, including the tag list

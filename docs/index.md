@@ -6,17 +6,13 @@ hide:
 
 # Recipes
 
-Tested recipes and the reusable building blocks behind them. Use the search bar to find anything, or browse below.
+Tested recipes, ready for the kitchen. Use the search bar to find anything, or pick one below.
 
-## Browse by category
+<!-- Keep this list alphabetical. One line per recipe. -->
 
-- [Mains](recipes/mains/index.md)
-- [Sides](recipes/sides/index.md)
-- [Salads](recipes/salads/index.md)
-- [Breakfast](recipes/breakfast/index.md)
-- [Bread](recipes/bread/index.md)
-- [Desserts](recipes/desserts/index.md)
-- [Components](components/index.md): dressings, sauces, roasted veg, base proteins, and grains
+- [Banana Bread](recipes/banana-bread.md) — classic cinnamon-scented loaf
+- [Beef Chuck Chili](recipes/beef-chuck-chili.md) — braised with bacon, red wine, and chipotle; best made a day ahead
+- [Macaroni and Cheese](recipes/macaroni-and-cheese.md) — baked, cheddar and Gruyère, panko top; a holiday tradition
 
 ## Browse by tag
 
