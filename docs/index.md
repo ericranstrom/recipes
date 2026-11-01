@@ -12,6 +12,7 @@ Tested recipes, ready for the kitchen. Use the search bar to find anything, or p
 
 - [Banana Bread](recipes/banana-bread.md) — classic cinnamon-scented loaf
 - [Beef Chuck Chili](recipes/beef-chuck-chili.md) — braised with bacon, red wine, and chipotle; best made a day ahead
+- [Chicago Deep Dish Pizza](recipes/chicago-deep-dish-pizza.md) — buttery laminated crust, cheese on the bottom, sauce on top
 - [Macaroni and Cheese](recipes/macaroni-and-cheese.md) — baked, cheddar and Gruyère, panko top; a holiday tradition
 
 ## Browse by tag
