@@ -100,4 +100,4 @@ Rich, smoky chili of beef chuck braised with bacon, red wine, and chipotle until
 
 ## Cook Log
 
-- 2026-11-01: First cook. Turned out great.
+- 2026-10-31: First cook (Halloween). Turned out great.
