@@ -3,7 +3,6 @@ title: Banana Bread
 tags:
   - vegetarian
   - american
-  - dessert
   - breakfast
   - snack
   - make-ahead
