@@ -49,7 +49,7 @@ Crunchy, sticky-sweet snack mix in a buttery honey, BBQ, and jalapeño hot sauce
 6. Pour the sauce over the snack mix.
 7. Stir gently until everything is evenly coated.
 8. Spread the mix over the 2 lined baking sheets. Both fit in one oven at once.
-9. Bake 35 to 60 minutes, stirring every 15 minutes, until toasted and crisp. Watch closely near the end so it doesn't burn.
+9. Bake 35 to 60 minutes, until toasted and crisp. Every 15 minutes, stir the mix and swap the sheets between the upper and lower racks. Watch closely near the end so it doesn't burn.
 10. Take it out of the oven.
 11. While it's still warm, sprinkle generously with cayenne to your preferred heat.
 12. Let cool completely on the baking sheets.
@@ -66,4 +66,4 @@ Crunchy, sticky-sweet snack mix in a buttery honey, BBQ, and jalapeño hot sauce
 
 <!-- Dated one-liners, newest first. -->
 
-- 2026-11-08: Big mixing bowl, 2 baking sheets in one oven. Worked fine.
+- 2026-11-08: Big mixing bowl, 2 baking sheets in one oven, swapped racks at each stir. Worked fine.
