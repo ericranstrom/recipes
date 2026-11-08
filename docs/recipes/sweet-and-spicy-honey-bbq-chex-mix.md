@@ -42,13 +42,13 @@ Crunchy, sticky-sweet snack mix in a buttery honey, BBQ, and jalapeño hot sauce
 ## Steps
 
 1. Heat the oven to 275°F.
-2. Line baking sheets with parchment.
-3. Combine the Wheat Chex, Honey Chex, Honeycomb, Bugles, and cashews in a large bowl.
+2. Line 2 baking sheets with parchment.
+3. Combine the Wheat Chex, Honey Chex, Honeycomb, Bugles, and cashews in a big mixing bowl.
 4. Put all the sauce ingredients in a saucepan over medium heat.
 5. Stir until the butter melts and everything is combined.
 6. Pour the sauce over the snack mix.
 7. Stir gently until everything is evenly coated.
-8. Spread the mix over the lined baking sheets.
+8. Spread the mix over the 2 lined baking sheets. Both fit in one oven at once.
 9. Bake 35 to 60 minutes, stirring every 15 minutes, until toasted and crisp. Watch closely near the end so it doesn't burn.
 10. Take it out of the oven.
 11. While it's still warm, sprinkle generously with cayenne to your preferred heat.
@@ -66,4 +66,4 @@ Crunchy, sticky-sweet snack mix in a buttery honey, BBQ, and jalapeño hot sauce
 
 <!-- Dated one-liners, newest first. -->
 
-*No entries yet.*
+- 2026-11-08: Big mixing bowl, 2 baking sheets in one oven. Worked fine.
